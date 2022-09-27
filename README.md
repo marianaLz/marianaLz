@@ -8,12 +8,20 @@ const marianaLz = {
   code: [JavaScript, ES6, Typescript, HTML, CSS, Arduino],
   tools: [NodeJs, Express, MongoDB, React, Redux, NextJS, Gatsby, GraphQL, Git, Jest, TestingLibrary],
   jobs: {
-    softwareDeveloper: "Konfío",
-    fontendDeveloper: "Spartan Devs",
+    softwareEngineer: "Konfío",
+    frontendDeveloper: ["Morgana", "Spartan Devs"],
     teachingAssistant: "Ironhack México",
     courseInstructor: "PowerGIE"
-},
-majorInterest: "I'm really interested in biotechnology"
+  },
+  aboutMe: "I am a technology enthusiast specialized in the world of Frontend Web Development. 
+            I have experience collaborating within multidisciplinary teams, which allows me to 
+            take into account many factors involved in the development to propose solutions and 
+            make objective decisions. My greatest satisfaction is to be able to create 
+            user-friendly, attractive and functional interfaces for users.
+            It is very important to me to be able to collaborate with companies that generate 
+            great social impact since my greatest motivation in life is to contribute to a 
+            positive change in society."
+}
 ```
 ___
 <a href="https://github.com/marianaLz">
