@@ -1,5 +1,3 @@
-<img align="right" width="350" src="https://github.com/marianaLz/marianaLz/blob/master/ezgif.com-gif-maker.gif" />
-
 ## Hi, I'm Mariana
 *Frontend Developer*
 ### About me
