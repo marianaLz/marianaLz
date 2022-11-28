@@ -1,5 +1,5 @@
 ## Hi, I'm Mariana
-*Frontend Developer*
+*Software Engineer | Javascript | React*
 ### About me
 ```javascript
 const marianaLz = {
