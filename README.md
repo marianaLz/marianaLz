@@ -1,5 +1,5 @@
 ## Hi, I'm Mariana
-*Software Engineer | Javascript | React*
+Women in Tech | Javascript | React | NodeJS
 ### About me
 ```javascript
 const marianaLz = {
