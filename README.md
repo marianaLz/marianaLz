@@ -3,35 +3,91 @@ Women in Tech | Javascript | React | NodeJS
 ### About me
 ```javascript
 const marianaLz = {
-  aboutMe: "I am a technology enthusiast specialized in the world of Frontend Web Development. 
-            I have experience collaborating within multidisciplinary teams, which allows me to 
-            take into account many factors involved in the development to propose solutions and 
-            make objective decisions. My greatest satisfaction is to be able to create 
-            user-friendly, attractive and functional interfaces for users.
-            It is very important to me to be able to collaborate with companies that generate 
-            great social impact since my greatest motivation in life is to contribute to a 
-            positive change in society.",
+  aboutMe: "I am a software developer with 4 years of professional experience collaborating 
+            in multidisciplinary teams and developing independent projects. This experience 
+            allows me to consider multiple factors to propose objective solutions. 
+            In my most recent experience, I have had the opportunity to lead an engineering 
+            team, providing guidance and mentoring to its members for their professional growth.
+            I feel gratified to be able to contribute to the growth of the people in the team, 
+            promoting a collaborative and stimulating environment. I believe in the importance 
+            of open communication and constant feedback to foster a productive work environment.
+            I am committed to excellence and quality in my work, always seeking to overcome 
+            challenges and achieve outstanding results.",
   jobs: [
     {
+      company: "Bahía 360",
+      position: "Tech Lead",
+      date: "March 2023 - Present",
+      responsibilities: [
+        "Supervise and assign tasks to the engineering team",
+        "Participate in project planning and estimate resources and time required",
+        "Decide on architecture, technologies and development best practices",
+        "Guide and mentor team members for their professional growth"
+      ]
+    }, {
+      company: "Laboratoria",
+      position: "Javascript Coach",
+      date: "December 2022 - Present",
+      responsibilities: [
+        "Guiding students' learning and directing them towards their career change"
+      ]
+    }, {
       company: "Konfío",
       position: "Software Engineer",
-      date: "december 2019 - september 2022"
+      date: "December 2019 - September 2022",
+      responsibilities: [
+        "Participate in the construction of a Design System and a library of components",
+        "Develop landing pages focused on customer attraction, marketing campaigns and 
+        communication of marketing campaigns and communication of the company's products",
+        "Develop the store's user interface for payment terminals",
+        "Implement improvements focused on SEO and site performance"
+      ]
     }, {
       company: "Morgana",
       position: "Frontend Developer",
-      date: "may 2022 - present"
+      date: "May 2022 - September 2022",
+      responsibilities: [
+        "Work on the platform's user interface",
+        "Apply a rebrand"
+      ]
     }, {
       company: "Spartan Dev",
       position: "Frontend Developer",
-      date: "october 2019 - december 2021"
+      date: "October 2019 - December 2021",
+      responsibilities: [
+        "Working the user interface on different websites",
+        "Configure and adjust to the user interface of different Shopify stores"
+      ]
     }, {
       company: "Ironhack México",
       position: "Teaching Assistant",
-      date: "june 2019 - december 2019"
+      date: "June 2019 - December 2019",
+      responsibilities: [
+        "Guide students' learning and direct them towards their career change"
+      ]
     }
   ],
+  projects: [
+    {
+      name: "Natoure",
+      date: "May 2021 - Present",
+      description: "User interface of the travel platform focused on ecotourism"
+    }, {
+      name: "Kuxatur",
+      date: "June 2022",
+      description: "Website of the project financed by the Global Environment Facility 
+        and promoted by SECTUR and the United Nations Development Program"
+    }, {
+      name: "Plib",
+      date: "October 2021 - April 2022",
+      description: "User interface of the platform to generate investments in biodiversity, 
+        promoted by the United Nations Development Program"
+    },
+  ],
   code: [JavaScript, ES6, Typescript, HTML, CSS, Arduino],
-  tools: [NodeJs, Express, MongoDB, React, Redux, NextJS, Gatsby, GraphQL, Git, Jest, TestingLibrary]
+  tools: [NodeJs, Express, MongoDB, React, Redux, NextJS, Gatsby, GraphQL, Git, Jest, TestingLibrary],
+  softSkills: ["Leadership", "Organization", "Teamwork", "Problem solving", "Decision making", 
+    "Assertive communication", "Attention to detail", "Empathy", "Effective time management"]
 }
 ```
 ___
