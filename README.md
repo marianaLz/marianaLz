@@ -17,54 +17,27 @@ const marianaLz = {
     {
       company: "Bahía 360",
       position: "Tech Lead",
-      date: "March 2023 - Present",
-      responsibilities: [
-        "Supervise and assign tasks to the engineering team",
-        "Participate in project planning and estimate resources and time required",
-        "Decide on architecture, technologies and development best practices",
-        "Guide and mentor team members for their professional growth"
-      ]
+      date: "March 2023 - Present"
     }, {
       company: "Laboratoria",
       position: "Javascript Coach",
-      date: "December 2022 - Present",
-      responsibilities: [
-        "Guiding students' learning and directing them towards their career change"
-      ]
+      date: "December 2022 - Present"
     }, {
       company: "Konfío",
       position: "Software Engineer",
-      date: "December 2019 - September 2022",
-      responsibilities: [
-        "Participate in the construction of a Design System and a library of components",
-        "Develop landing pages focused on customer attraction, marketing campaigns and 
-        communication of marketing campaigns and communication of the company's products",
-        "Develop the store's user interface for payment terminals",
-        "Implement improvements focused on SEO and site performance"
-      ]
+      date: "December 2019 - September 2022"
     }, {
       company: "Morgana",
       position: "Frontend Developer",
-      date: "May 2022 - September 2022",
-      responsibilities: [
-        "Work on the platform's user interface",
-        "Apply a rebrand"
-      ]
+      date: "May 2022 - September 2022"
     }, {
       company: "Spartan Dev",
       position: "Frontend Developer",
-      date: "October 2019 - December 2021",
-      responsibilities: [
-        "Working the user interface on different websites",
-        "Configure and adjust to the user interface of different Shopify stores"
-      ]
+      date: "October 2019 - December 2021"
     }, {
       company: "Ironhack México",
       position: "Teaching Assistant",
-      date: "June 2019 - December 2019",
-      responsibilities: [
-        "Guide students' learning and direct them towards their career change"
-      ]
+      date: "June 2019 - December 2019"
     }
   ],
   projects: [
