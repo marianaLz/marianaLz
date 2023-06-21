@@ -57,7 +57,7 @@ const marianaLz = {
         promoted by the United Nations Development Program"
     },
   ],
-  code: [JavaScript, ES6, Typescript, HTML, CSS, Arduino],
+  code: [JavaScript, ES6, Typescript, HTML, CSS, Arduino, Python],
   tools: [NodeJs, Express, MongoDB, React, Redux, NextJS, Gatsby, GraphQL, Git, Jest, TestingLibrary],
   softSkills: ["Leadership", "Organization", "Teamwork", "Problem solving", "Decision making", 
     "Assertive communication", "Attention to detail", "Empathy", "Effective time management"]
