@@ -33,19 +33,6 @@ I am committed to excellence and quality in my work, always seeking to overcome 
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </div>
 
-<hr/>
-
-<div dir="flex">
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianaLz&include_all_commits=true&show_icons=true&hide_rank=true&custom_title=My%20GitHub%20Stats&text_bold=false&width=auto)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaLz&layout=compact&width=auto)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-  
-  
-
 <!--- ### About me
 ```javascript
 const marianaLz = {
