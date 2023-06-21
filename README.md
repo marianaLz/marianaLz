@@ -1,8 +1,16 @@
 ## Hi, I'm Mariana
 
 I am a software developer with 4 years of professional experience collaborating in multidisciplinary teams and developing independent projects. This experience allows me to consider multiple factors to propose objective solutions. In my most recent experience, I have had the opportunity to lead an engineering team, providing guidance and mentoring to its members for their professional growth.
+
 I feel gratified to be able to contribute to the growth of the people in the team, promoting a collaborative and stimulating environment. I believe in the importance of open communication and constant feedback to foster a productive work environment.
+
 I am committed to excellence and quality in my work, always seeking to overcome challenges and achieve outstanding results.
+
+### 🎖️ My favorite projects
+
+| Natoure 🐆 (May 2021 - Present) | Kuxatur 🐢 (June 2022) | Plib 👩🏻‍🌾 (October 2021 - April 2022) |
+|---|---|---|
+| Sustainable tourism platform that connects travelers with local communities and managers of protected natural areas, encouraging the exchange of experiences through simple, safe and reliable mechanisms. | Project funded by the GEF and promoted by SECTUR and the United Nations Development Program, to ensure the biodiversity conservation for the tourism sector in Mexico with emphasis on coastal ecosystems. | Platform promoted by the United Nations Development Program, for the promotion of investments in biodiversity by linking private sector producers and companies, public sector actors, investors and society in general. |
 
 ### ✨ I love working with
 
