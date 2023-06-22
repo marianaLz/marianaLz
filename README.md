@@ -40,27 +40,3 @@ I am committed to excellence and quality in my work, always seeking to overcome 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </div>
-
-<!--- ### About me
-```javascript
-const marianaLz = {
-  projects: [
-    {
-      name: "Natoure",
-      date: "May 2021 - Present",
-      description: "User interface of the travel platform focused on ecotourism"
-    }, {
-      name: "Kuxatur",
-      date: "June 2022",
-      description: "Website of the project financed by the Global Environment Facility 
-        and promoted by SECTUR and the United Nations Development Program"
-    }, {
-      name: "Plib",
-      date: "October 2021 - April 2022",
-      description: "User interface of the platform to generate investments in biodiversity, 
-        promoted by the United Nations Development Program"
-    },
-  ],
-}
-```
--->
